@@ -1,0 +1,6 @@
+git+https://github.com/vchoutas/torch-trust-ncg
+torch
+sys
+os
+numpy
+timeit
