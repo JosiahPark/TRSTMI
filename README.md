@@ -25,7 +25,7 @@ This code runs on Python 3. You will need PyTorch installed. If you would like t
 
 ## Questions
 
-If you have any questions about the code, please contact [Carlos Saltijeral](carlossaltrev@gmail.com) or
+If you have any questions about the code, please contact Carlos Saltijeral (carlossaltrev@gmail.com) or
 
 
 Josiah Park\
